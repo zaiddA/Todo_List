@@ -122,7 +122,4 @@ npm start
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter)
-
-Project Link: [https://github.com/yourusername/repo](https://github.com/yourusername/repo)
+Project Link: [LINK](https://github.com/zaiddA/Todo_List))
