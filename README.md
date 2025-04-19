@@ -39,8 +39,8 @@ A full-stack Todo application built with React, Node.js, and MongoDB. This appli
 1. Clone the repository:
 
 ```bash
-git clone <your-repository-url>
-cd <repository-name>
+git clone https://github.com/zaiddA/Todo_List
+cd Todo_List
 ```
 
 2. Install dependencies for both client and server:
